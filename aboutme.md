@@ -1,4 +1,0 @@
-I am Shubham a 16 years old student from India. I am learning programming because it seems pretty fun.
-I love to make websites among other silly things, and have been using languages like TypeScript and Python to do that for the last one or so years. Recently i have shifted more toward computational thinking and automation to make my job easier.It is fun too. Outside of coding, I like Maths and using it to solve problems in computer science.
-I have made some projects like a chess engine neural based with minimax and alpha beta purning. An ai model to predict your chess elo. A simple reinforcement learning model that improves by generating random english words based on small detaset and then check if they exist or not.
-Apart from that i am also a student trying to do well in academics as well. I'm in class 11th right now.
